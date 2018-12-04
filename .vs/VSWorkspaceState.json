@@ -1,10 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\A_Very_Big_Sum\\A_Very_Big_Sum",
     "\\Time_Conversion",
     "\\Time_Conversion\\Time_Conversion"
   ],
-  "SelectedNode": "\\Between_Two_Sets",
+  "SelectedNode": "\\Time_Conversion",
   "PreviewInSolutionExplorer": false
 }
