@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sequence Equation", "Sequence Equation\Sequence Equation.csproj", "{58EE223F-75DB-4C6C-977D-D966A29F1853}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58EE223F-75DB-4C6C-977D-D966A29F1853}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58EE223F-75DB-4C6C-977D-D966A29F1853}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58EE223F-75DB-4C6C-977D-D966A29F1853}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58EE223F-75DB-4C6C-977D-D966A29F1853}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C2987CC0-8177-4176-BB44-DF601962F86B}
+	EndGlobalSection
+EndGlobal
