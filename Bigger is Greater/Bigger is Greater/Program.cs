@@ -15,6 +15,10 @@ namespace Bigger_is_Greater
                 while (w[i] <= w[i - 1])
                 {
                     i--;
+                    if (i == 0)
+                    {
+                        break;
+                    }
                 }
             }
             if (i <= 0)
@@ -45,16 +49,17 @@ namespace Bigger_is_Greater
         {
             string[] temp = File.ReadLines("permutation.txt").ToArray();
 
-            //foreach (string item in temp)
-            //{
+            foreach (string item in temp)
+            {
 
-            //    Console.WriteLine(BiggerIsGreater(item));
-            Random rnd = new Random();
-            int lenght = rnd.Next(1, 101);
-            const string chars = "ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789";
-            string text = new string(Enumerable.Repeat(chars, lenght).Select(x => x[rnd.Next(chars.Length)]).ToArray());
-            Console.WriteLine($"Input: {text}");
-            Console.WriteLine($" Result: {BiggerIsGreater(text)}");
+                Console.WriteLine(BiggerIsGreater(item));
+            }
+            //Random rnd = new Random();
+            //int lenght = rnd.Next(1, 101);
+            //const string chars = "ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789";
+            //string text = new string(Enumerable.Repeat(chars, lenght).Select(x => x[rnd.Next(chars.Length)]).ToArray());
+            //Console.WriteLine($"Input: {text}");
+            //Console.WriteLine($" Result: {BiggerIsGreater(text)}");
             Console.ReadKey();
         }
     }
