@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Strange Counter", "Strange Counter\Strange Counter.csproj", "{1D225E2C-99E3-4A7A-BC4B-EE3A6CC322F0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1D225E2C-99E3-4A7A-BC4B-EE3A6CC322F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D225E2C-99E3-4A7A-BC4B-EE3A6CC322F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D225E2C-99E3-4A7A-BC4B-EE3A6CC322F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D225E2C-99E3-4A7A-BC4B-EE3A6CC322F0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6A769C0C-D548-4CC8-8D97-656F84DE79EC}
+	EndGlobalSection
+EndGlobal

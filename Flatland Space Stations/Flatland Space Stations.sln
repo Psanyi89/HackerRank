@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flatland Space Stations", "Flatland Space Stations\Flatland Space Stations.csproj", "{5C317EC6-2167-4355-BD3F-D7C5653C5E7E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C317EC6-2167-4355-BD3F-D7C5653C5E7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C317EC6-2167-4355-BD3F-D7C5653C5E7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C317EC6-2167-4355-BD3F-D7C5653C5E7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C317EC6-2167-4355-BD3F-D7C5653C5E7E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D7437747-DD74-4039-BBBA-E97A5E375CF7}
+	EndGlobalSection
+EndGlobal
